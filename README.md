@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simon-thiini
 - 👀 I’m interested in python and java programming
-- 🌱 I’m currently learning bsc.information technology
+- 🌱 degree bsc.information technology
 - 💞️ I’m looking to collaborate on mobile applications in python and java
 - 📫 How to reach me 0700635387,,,wathutasimon@gmail.com
 
