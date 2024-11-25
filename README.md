@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @simon-thiini
-- 👀 I’m interested in python and java programming
+- 👀 I’m interested in patnership on development of softwares overlooking to your comapies succes
 - 🌱 degree bsc.information technology
-- 💞️ I’m looking to collaborate on mobile applications in python and java
+- 💞️ I’m looking to collaborate on mobile applications- 
 - 📫 How to reach me 0700635387,,,wathutasimon@gmail.com
-- working as a software developer from 01/08/2023 to date.
+- working as an industirial software developer in gold in data, from 01/08/2023 to date.
+- partners with lvct health and kemri.
+- partenrs with amani insuarance.
 - Founder and Ceo of 4s technologies.
 
 <!---
