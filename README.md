@@ -6,7 +6,8 @@ Software developer passionate about building innovative solutions and driving bu
 **Education:** BSc. Information Technology
 
 ## 🚀 Current Role
-**Industrial Software Developer** at Gold in Data  
+**Industrial Software Developer** at Gold in Data 
+** Trainer and system adminstrator 
 *August 2023 - Present*
 
 ## 💼 Professional Experience & Partnerships
@@ -20,8 +21,6 @@ Software developer passionate about building innovative solutions and driving bu
 - Building scalable and robust solutions
 
 ## 📫 Let's Connect
-- **Phone:** +254 700 635 387
-- **Email:** wathutasimon@gmail.com
 - **GitHub:** [@simon-thiini](https://github.com/simon-thiini)
 
 ---
