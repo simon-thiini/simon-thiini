@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @simon-thiini
-- 👀 I’m interested in patnership on development of softwares overlooking to your comapies succes
-- 🌱 degree bsc.information technology
-- 💞️ I’m looking to collaborate on mobile applications- 
-- 📫 How to reach me 0700635387,,,wathutasimon@gmail.com
-- working as an industirial software developer in gold in data, from 01/08/2023 to date.
-- partners with lvct health and kemri.
-- partenrs with amani insuarance.
-- Founder and Ceo of 4s technologies.
+# Hi, I'm Simon Thiini 👋
 
-<!---
-simon-thiini/simon-thiini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Software developer passionate about building innovative solutions and driving business success through quality software development.
+
+**Education:** BSc. Information Technology
+
+## 🚀 Current Role
+**Industrial Software Developer** at Gold in Data  
+*August 2023 - Present*
+
+## 💼 Professional Experience & Partnerships
+- Strategic partnerships with **LVCT Health** and **KEMRI**
+- Collaborative partnership with **Amani Insurance**
+- **Founder & CEO** of **4S Technologies**
+
+## 💡 Interests & Focus
+- 👀 Interested in partnering on software development projects with companies seeking success
+- 📱 Looking to collaborate on **mobile applications**
+- Building scalable and robust solutions
+
+## 📫 Let's Connect
+- **Phone:** +254 700 635 387
+- **Email:** wathutasimon@gmail.com
+- **GitHub:** [@simon-thiini](https://github.com/simon-thiini)
+
+---
+
+*Open to exciting opportunities in software development, mobile applications, and strategic partnerships!*
